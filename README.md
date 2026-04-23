@@ -133,17 +133,7 @@ A database failure was simulated by dropping the main table. Data was successful
 
 ---
 
-## 🎥 Demo Video
 
-(Add your demo video link here)
-
----
-
-## 📸 Screenshots
-
-(Add screenshots of project execution here)
-
----
 
 ## 📌 Conclusion
 
